@@ -1,19 +1,118 @@
-
-
 body {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(158, 153, 147, 0.377);
 }
 
-h2, p, .readme-wrapper {
+h2,
+p,
+.readme-wrapper {
     text-align: center;
-    
-    
+
+
+}
+
+.readme-wrapper :hover {
+    color: green;
+    font-weight: bold;
+
+
+}
+
+h1 {
+    color: brown;
 }
 
 a {
+
     text-decoration: none;
-    
+    font-weight: bold;
+
+
 }
 
-:hover
+.fancyword {
+    font-weight: bold;
+    color: purple;
+}
+
+
+.boxes {
+    display: block;
+    margin: 2em;
+    padding: 1em;
+    border: solid orangered;
+    border-radius: 4em;
+    width: 30em;
+}
+
+#box1 {
+    background-color: orange;
+}
+
+#box2 {
+    background-color: aqua;
+
+}
+
+#box3 {
+    background-color: blue;
+}
+
+#box4 {
+    background-color: blueviolet;
+}
+
+.images {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: green;
+    left: 1em;
+    top: 4em;
+}
+
+.original {
+    color: rgb(196, 114, 182);
+}
+
+.additional {
+    color: chocolate;
+}
+
+#show1 {
+    color: red;
+}
+
+#show2 {
+    color: green;
+}
+
+#show3 {
+    color: black;
+}
+
+#show4 {
+    color: blueviolet;
+}
+
+#show5 {
+    color: orange;
+}
+
+ul {
+    color: blue;
+}
+
+.star {
+    color: peru;
+}
+
+#wars {
+    color: green;
+}
+
+.list {
+    border: 2px solid black;
+    
+}
