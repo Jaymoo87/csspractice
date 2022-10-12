@@ -1,0 +1,19 @@
+
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(158, 153, 147, 0.377);
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+:hover
